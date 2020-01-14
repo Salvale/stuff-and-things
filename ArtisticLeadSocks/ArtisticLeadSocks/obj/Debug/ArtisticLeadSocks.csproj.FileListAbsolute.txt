@@ -1,0 +1,6 @@
+C:\Users\coddo\source\repos\ArtisticLeadSocks\ArtisticLeadSocks\bin\Debug\ArtisticLeadSocks.exe.config
+C:\Users\coddo\source\repos\ArtisticLeadSocks\ArtisticLeadSocks\bin\Debug\ArtisticLeadSocks.exe
+C:\Users\coddo\source\repos\ArtisticLeadSocks\ArtisticLeadSocks\bin\Debug\ArtisticLeadSocks.pdb
+C:\Users\coddo\source\repos\ArtisticLeadSocks\ArtisticLeadSocks\obj\Debug\ArtisticLeadSocks.csprojAssemblyReference.cache
+C:\Users\coddo\source\repos\ArtisticLeadSocks\ArtisticLeadSocks\obj\Debug\ArtisticLeadSocks.exe
+C:\Users\coddo\source\repos\ArtisticLeadSocks\ArtisticLeadSocks\obj\Debug\ArtisticLeadSocks.pdb
