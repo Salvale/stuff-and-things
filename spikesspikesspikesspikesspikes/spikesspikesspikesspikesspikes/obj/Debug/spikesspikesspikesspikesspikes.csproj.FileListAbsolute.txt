@@ -1,0 +1,7 @@
+C:\Users\c.doris\source\repos\spikesspikesspikesspikesspikes\spikesspikesspikesspikesspikes\bin\Debug\spikesspikesspikesspikesspikes.exe.config
+C:\Users\c.doris\source\repos\spikesspikesspikesspikesspikes\spikesspikesspikesspikesspikes\bin\Debug\spikesspikesspikesspikesspikes.exe
+C:\Users\c.doris\source\repos\spikesspikesspikesspikesspikes\spikesspikesspikesspikesspikes\bin\Debug\spikesspikesspikesspikesspikes.pdb
+C:\Users\c.doris\source\repos\spikesspikesspikesspikesspikes\spikesspikesspikesspikesspikes\obj\Debug\spikesspikesspikesspikesspikes.csprojAssemblyReference.cache
+C:\Users\c.doris\source\repos\spikesspikesspikesspikesspikes\spikesspikesspikesspikesspikes\obj\Debug\spikesspikesspikesspikesspikes.csproj.CoreCompileInputs.cache
+C:\Users\c.doris\source\repos\spikesspikesspikesspikesspikes\spikesspikesspikesspikesspikes\obj\Debug\spikesspikesspikesspikesspikes.exe
+C:\Users\c.doris\source\repos\spikesspikesspikesspikesspikes\spikesspikesspikesspikesspikes\obj\Debug\spikesspikesspikesspikesspikes.pdb
